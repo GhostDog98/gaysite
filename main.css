@@ -137,9 +137,9 @@ span.rev {
 }
 
 span.rev.phone:after {
-  content: " 1940+";
+  content: "";
 }
 
 span.rev.phone:before {
-  content: "308 ";
+  content: "";
 }
